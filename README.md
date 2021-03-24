@@ -5,3 +5,4 @@ Requirement:
 - Html
 - JavaScript
 
+[Demo](https://devinliang.github.io/PreviewUploadImage/)
